@@ -1,0 +1,10 @@
+date,lane,label,short_note,source_event,metric,threshold,value
+2024-03-31,Liquidity cover,6m CLC < 1,6-month import cover already below one,6-month import CLC below 1 in observed CBUAE window,clc_real_6m,< 1,0.60460346162255
+2025-03-31,Reserve composition,Cash share < 50%,cash/deposit reserve layer loses majority status,CBUAE cash/deposits share falls below 50%,cash_deposits_share_of_gross_reserves,< 50%,0.4911855978956214
+2025-06-30,Reserve composition,Foreign investments > cash,investment layer exceeds cash/deposit layer,CBUAE foreign investments exceed cash/deposits,foreign_investments_bn > cash_deposits_abroad_bn,foreign investments > cash/deposits,foreign_investments=$137.8B; cash_deposits=$113.9B
+2025-06-30,Liquidity cover,3m CLC < 1,cash/deposit layer below 3-month import floor,3-month import CLC crosses below 1,clc_real_3m,< 1,0.9798284439526014
+2025-06-30,Banking layer,BIS USD liabilities high,banking-layer dollar exposure reaches sample high,BIS global USD liabilities to UAE reach sample high,bis_global_usd_liabilities_to_uae,sample high,739.925502
+2025-09-30,Reserve composition,Cash share < 35%,cash/deposit reserve layer becomes thin,CBUAE cash/deposits share falls below 35%,cash_deposits_share_of_gross_reserves,< 35%,0.3468646961163903
+2025-09-30,Absorption risk,Low BTAR > 1,low scenario exceeds observed absorption denominator,Low-scenario UAE-BTAR exceeds 1 for BIS global USD liabilities to UAE,uae_btar,low scenario > 1,1.3285311544408944
+2026-02-28,Reserve composition,Cash share < 25%,cash/deposit reserve layer approaches hard minimum,CBUAE cash/deposits share falls below 25%,cash_deposits_share_of_gross_reserves,< 25%,0.2435336871354454
+2026-04-22,Policy marker,Bessent signal,public policy signal,Bessent UAE swap-line signal,policy_marker,public signal,

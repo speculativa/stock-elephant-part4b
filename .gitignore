@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+
+# Large files (regenerate from BIS source)
+outputs/csv/bis_lbs_bulk.zip
+outputs/csv/bis_lbs_uae_filtered.csv

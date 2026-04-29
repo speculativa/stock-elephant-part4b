@@ -1,0 +1,24 @@
+from,to,relationship,since
+Sheikh Tahnoon bin Zayed,ADIA,chairman,2023-03-01
+Sheikh Tahnoon bin Zayed,Chimera,chairman,
+Sheikh Tahnoon bin Zayed,IHC,chairman,
+Sheikh Tahnoon bin Zayed,MGX,chairman,2024-01-01
+Sheikh Tahnoon bin Zayed,G42,chairman,
+Chimera,Lunate,majority_owner,2023-01-01
+Sheikh Khaled bin Mohamed,L'IMAD,chairman,2026-01-01
+Sheikh Mohammed bin Zayed,Mubadala,chairman,
+SCFEA,ADIA,oversight,
+SCFEA,Mubadala,oversight,
+SCFEA,L'IMAD,oversight,
+SCFEA,ADNOC,oversight,
+Lunate,Brevan Howard,minority_stake,2024-01-01
+Lunate,Brookfield_platform,partnership,2023-06-01
+Lunate,BlueOwl_platform,partnership,2023-06-01
+Lunate,OpenAI,equity_stake,2024-01-01
+Lunate,CoreWeave,equity_stake,2024-06-01
+L'IMAD,ADQ_assets,absorbed,2026-01-30
+L'IMAD,Paramount_Skydance,participant,2026-01-01
+Mohamed Alsuwaidi,Lunate,executive_chairman,2026-01-29
+Mohamed Alsuwaidi,ADQ_CEO,ceo_until,2026-01-29
+Jassem Al-Zaabi,L'IMAD,ceo,2026-01-30
+Jassem Al-Zaabi,UAE Central Bank,vice_chairman,

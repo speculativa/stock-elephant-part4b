@@ -1,0 +1,521 @@
+date,country,value_usd_bn,source
+2022-01-31,All Other,410.0,TIC MFH current table
+2022-02-28,All Other,409.8,TIC MFH current table
+2022-03-31,All Other,399.6,TIC MFH current table
+2022-04-30,All Other,402.0,TIC MFH current table
+2022-05-31,All Other,400.1,TIC MFH current table
+2022-06-30,All Other,407.2,TIC MFH current table
+2022-07-31,All Other,407.7,TIC MFH current table
+2022-08-31,All Other,408.5,TIC MFH current table
+2022-09-30,All Other,414.1,TIC MFH current table
+2022-10-31,All Other,408.3,TIC MFH current table
+2022-11-30,All Other,424.9,TIC MFH current table
+2022-12-31,All Other,439.2,TIC MFH current table
+2023-01-31,All Other,437.2,TIC MFH current table
+2022-01-31,Australia,59.7,TIC MFH current table
+2022-02-28,Australia,60.6,TIC MFH current table
+2022-03-31,Australia,59.2,TIC MFH current table
+2022-04-30,Australia,60.2,TIC MFH current table
+2022-05-31,Australia,57.2,TIC MFH current table
+2022-06-30,Australia,54.3,TIC MFH current table
+2022-07-31,Australia,56.3,TIC MFH current table
+2022-08-31,Australia,56.2,TIC MFH current table
+2022-09-30,Australia,56.3,TIC MFH current table
+2022-10-31,Australia,58.5,TIC MFH current table
+2022-11-30,Australia,58.3,TIC MFH current table
+2022-12-31,Australia,57.1,TIC MFH current table
+2023-01-31,Australia,62.2,TIC MFH current table
+2022-01-31,Bahamas,35.9,TIC MFH current table
+2022-02-28,Bahamas,33.5,TIC MFH current table
+2022-03-31,Bahamas,36.1,TIC MFH current table
+2022-04-30,Bahamas,39.5,TIC MFH current table
+2022-05-31,Bahamas,30.0,TIC MFH current table
+2022-06-30,Bahamas,30.3,TIC MFH current table
+2022-07-31,Bahamas,35.7,TIC MFH current table
+2022-08-31,Bahamas,40.0,TIC MFH current table
+2022-09-30,Bahamas,41.3,TIC MFH current table
+2022-10-31,Bahamas,45.1,TIC MFH current table
+2022-11-30,Bahamas,44.1,TIC MFH current table
+2022-12-31,Bahamas,46.0,TIC MFH current table
+2023-01-31,Bahamas,38.1,TIC MFH current table
+2022-01-31,Belgium,243.0,TIC MFH current table
+2022-02-28,Belgium,258.4,TIC MFH current table
+2022-03-31,Belgium,264.5,TIC MFH current table
+2022-04-30,Belgium,255.6,TIC MFH current table
+2022-05-31,Belgium,268.2,TIC MFH current table
+2022-06-30,Belgium,273.5,TIC MFH current table
+2022-07-31,Belgium,285.4,TIC MFH current table
+2022-08-31,Belgium,287.8,TIC MFH current table
+2022-09-30,Belgium,325.0,TIC MFH current table
+2022-10-31,Belgium,327.2,TIC MFH current table
+2022-11-30,Belgium,332.9,TIC MFH current table
+2022-12-31,Belgium,354.3,TIC MFH current table
+2023-01-31,Belgium,331.1,TIC MFH current table
+2022-01-31,Bermuda,69.7,TIC MFH current table
+2022-02-28,Bermuda,71.2,TIC MFH current table
+2022-03-31,Bermuda,73.0,TIC MFH current table
+2022-04-30,Bermuda,75.2,TIC MFH current table
+2022-05-31,Bermuda,77.4,TIC MFH current table
+2022-06-30,Bermuda,79.5,TIC MFH current table
+2022-07-31,Bermuda,82.3,TIC MFH current table
+2022-08-31,Bermuda,82.7,TIC MFH current table
+2022-09-30,Bermuda,82.6,TIC MFH current table
+2022-10-31,Bermuda,83.6,TIC MFH current table
+2022-11-30,Bermuda,83.6,TIC MFH current table
+2022-12-31,Bermuda,81.5,TIC MFH current table
+2023-01-31,Bermuda,77.4,TIC MFH current table
+2022-01-31,Brazil,236.1,TIC MFH current table
+2022-02-28,Brazil,237.4,TIC MFH current table
+2022-03-31,Brazil,233.3,TIC MFH current table
+2022-04-30,Brazil,229.2,TIC MFH current table
+2022-05-31,Brazil,228.4,TIC MFH current table
+2022-06-30,Brazil,226.1,TIC MFH current table
+2022-07-31,Brazil,232.9,TIC MFH current table
+2022-08-31,Brazil,227.3,TIC MFH current table
+2022-09-30,Brazil,221.8,TIC MFH current table
+2022-10-31,Brazil,220.1,TIC MFH current table
+2022-11-30,Brazil,225.9,TIC MFH current table
+2022-12-31,Brazil,217.4,TIC MFH current table
+2023-01-31,Brazil,214.0,TIC MFH current table
+2022-01-31,Canada,217.6,TIC MFH current table
+2022-02-28,Canada,224.1,TIC MFH current table
+2022-03-31,Canada,236.5,TIC MFH current table
+2022-04-30,Canada,234.7,TIC MFH current table
+2022-05-31,Canada,225.5,TIC MFH current table
+2022-06-30,Canada,206.2,TIC MFH current table
+2022-07-31,Canada,227.9,TIC MFH current table
+2022-08-31,Canada,228.2,TIC MFH current table
+2022-09-30,Canada,199.9,TIC MFH current table
+2022-10-31,Canada,218.2,TIC MFH current table
+2022-11-30,Canada,228.7,TIC MFH current table
+2022-12-31,Canada,215.1,TIC MFH current table
+2023-01-31,Canada,254.1,TIC MFH current table
+2022-01-31,Cayman Islands,272.1,TIC MFH current table
+2022-02-28,Cayman Islands,275.9,TIC MFH current table
+2022-03-31,Cayman Islands,293.9,TIC MFH current table
+2022-04-30,Cayman Islands,292.5,TIC MFH current table
+2022-05-31,Cayman Islands,295.4,TIC MFH current table
+2022-06-30,Cayman Islands,302.3,TIC MFH current table
+2022-07-31,Cayman Islands,293.4,TIC MFH current table
+2022-08-31,Cayman Islands,308.6,TIC MFH current table
+2022-09-30,Cayman Islands,301.5,TIC MFH current table
+2022-10-31,Cayman Islands,291.7,TIC MFH current table
+2022-11-30,Cayman Islands,283.5,TIC MFH current table
+2022-12-31,Cayman Islands,283.8,TIC MFH current table
+2023-01-31,Cayman Islands,285.3,TIC MFH current table
+2022-01-31,Chile,35.3,TIC MFH current table
+2022-02-28,Chile,37.2,TIC MFH current table
+2022-03-31,Chile,37.4,TIC MFH current table
+2022-04-30,Chile,36.5,TIC MFH current table
+2022-05-31,Chile,39.4,TIC MFH current table
+2022-06-30,Chile,40.5,TIC MFH current table
+2022-07-31,Chile,38.1,TIC MFH current table
+2022-08-31,Chile,36.0,TIC MFH current table
+2022-09-30,Chile,34.0,TIC MFH current table
+2022-10-31,Chile,33.8,TIC MFH current table
+2022-11-30,Chile,34.1,TIC MFH current table
+2022-12-31,Chile,34.0,TIC MFH current table
+2023-01-31,Chile,34.2,TIC MFH current table
+2022-01-31,"China, Mainland",1033.8,TIC MFH current table
+2022-02-28,"China, Mainland",1028.7,TIC MFH current table
+2022-03-31,"China, Mainland",1013.2,TIC MFH current table
+2022-04-30,"China, Mainland",976.0,TIC MFH current table
+2022-05-31,"China, Mainland",951.8,TIC MFH current table
+2022-06-30,"China, Mainland",938.8,TIC MFH current table
+2022-07-31,"China, Mainland",939.2,TIC MFH current table
+2022-08-31,"China, Mainland",938.6,TIC MFH current table
+2022-09-30,"China, Mainland",901.7,TIC MFH current table
+2022-10-31,"China, Mainland",877.9,TIC MFH current table
+2022-11-30,"China, Mainland",870.2,TIC MFH current table
+2022-12-31,"China, Mainland",867.1,TIC MFH current table
+2023-01-31,"China, Mainland",859.4,TIC MFH current table
+2022-01-31,Colombia,33.3,TIC MFH current table
+2022-02-28,Colombia,34.0,TIC MFH current table
+2022-03-31,Colombia,34.5,TIC MFH current table
+2022-04-30,Colombia,35.4,TIC MFH current table
+2022-05-31,Colombia,34.9,TIC MFH current table
+2022-06-30,Colombia,34.9,TIC MFH current table
+2022-07-31,Colombia,35.1,TIC MFH current table
+2022-08-31,Colombia,34.0,TIC MFH current table
+2022-09-30,Colombia,34.4,TIC MFH current table
+2022-10-31,Colombia,33.8,TIC MFH current table
+2022-11-30,Colombia,35.7,TIC MFH current table
+2022-12-31,Colombia,39.8,TIC MFH current table
+2023-01-31,Colombia,39.5,TIC MFH current table
+2022-01-31,France,232.9,TIC MFH current table
+2022-02-28,France,238.7,TIC MFH current table
+2022-03-31,France,246.0,TIC MFH current table
+2022-04-30,France,242.9,TIC MFH current table
+2022-05-31,France,242.5,TIC MFH current table
+2022-06-30,France,236.3,TIC MFH current table
+2022-07-31,France,231.8,TIC MFH current table
+2022-08-31,France,232.7,TIC MFH current table
+2022-09-30,France,206.7,TIC MFH current table
+2022-10-31,France,217.4,TIC MFH current table
+2022-11-30,France,203.6,TIC MFH current table
+2022-12-31,France,189.0,TIC MFH current table
+2023-01-31,France,183.9,TIC MFH current table
+2022-01-31,Germany,84.3,TIC MFH current table
+2022-02-28,Germany,90.5,TIC MFH current table
+2022-03-31,Germany,93.8,TIC MFH current table
+2022-04-30,Germany,92.8,TIC MFH current table
+2022-05-31,Germany,91.6,TIC MFH current table
+2022-06-30,Germany,95.4,TIC MFH current table
+2022-07-31,Germany,87.5,TIC MFH current table
+2022-08-31,Germany,88.8,TIC MFH current table
+2022-09-30,Germany,83.9,TIC MFH current table
+2022-10-31,Germany,85.9,TIC MFH current table
+2022-11-30,Germany,90.0,TIC MFH current table
+2022-12-31,Germany,100.7,TIC MFH current table
+2023-01-31,Germany,91.3,TIC MFH current table
+2022-01-31,Grand Total,7655.9,TIC MFH current table
+2022-02-28,Grand Total,7703.6,TIC MFH current table
+2022-03-31,Grand Total,7604.4,TIC MFH current table
+2022-04-30,Grand Total,7443.4,TIC MFH current table
+2022-05-31,Grand Total,7411.0,TIC MFH current table
+2022-06-30,Grand Total,7417.0,TIC MFH current table
+2022-07-31,Grand Total,7485.5,TIC MFH current table
+2022-08-31,Grand Total,7492.7,TIC MFH current table
+2022-09-30,Grand Total,7251.5,TIC MFH current table
+2022-10-31,Grand Total,7133.1,TIC MFH current table
+2022-11-30,Grand Total,7268.6,TIC MFH current table
+2022-12-31,Grand Total,7318.7,TIC MFH current table
+2023-01-31,Grand Total,7402.5,TIC MFH current table
+2022-01-31,Hong Kong,225.6,TIC MFH current table
+2022-02-28,Hong Kong,205.4,TIC MFH current table
+2022-03-31,Hong Kong,207.7,TIC MFH current table
+2022-04-30,Hong Kong,195.0,TIC MFH current table
+2022-05-31,Hong Kong,185.6,TIC MFH current table
+2022-06-30,Hong Kong,187.3,TIC MFH current table
+2022-07-31,Hong Kong,192.8,TIC MFH current table
+2022-08-31,Hong Kong,189.8,TIC MFH current table
+2022-09-30,Hong Kong,178.7,TIC MFH current table
+2022-10-31,Hong Kong,185.0,TIC MFH current table
+2022-11-30,Hong Kong,201.0,TIC MFH current table
+2022-12-31,Hong Kong,221.0,TIC MFH current table
+2023-01-31,Hong Kong,226.8,TIC MFH current table
+2022-01-31,India,198.6,TIC MFH current table
+2022-02-28,India,199.8,TIC MFH current table
+2022-03-31,India,199.8,TIC MFH current table
+2022-04-30,India,199.0,TIC MFH current table
+2022-05-31,India,203.7,TIC MFH current table
+2022-06-30,India,208.8,TIC MFH current table
+2022-07-31,India,212.0,TIC MFH current table
+2022-08-31,India,221.2,TIC MFH current table
+2022-09-30,India,212.6,TIC MFH current table
+2022-10-31,India,213.0,TIC MFH current table
+2022-11-30,India,219.0,TIC MFH current table
+2022-12-31,India,224.1,TIC MFH current table
+2023-01-31,India,232.0,TIC MFH current table
+2022-01-31,Iraq,23.4,TIC MFH current table
+2022-02-28,Iraq,24.1,TIC MFH current table
+2022-03-31,Iraq,26.2,TIC MFH current table
+2022-04-30,Iraq,28.3,TIC MFH current table
+2022-05-31,Iraq,32.9,TIC MFH current table
+2022-06-30,Iraq,32.0,TIC MFH current table
+2022-07-31,Iraq,34.6,TIC MFH current table
+2022-08-31,Iraq,35.6,TIC MFH current table
+2022-09-30,Iraq,36.9,TIC MFH current table
+2022-10-31,Iraq,38.0,TIC MFH current table
+2022-11-30,Iraq,39.7,TIC MFH current table
+2022-12-31,Iraq,40.8,TIC MFH current table
+2023-01-31,Iraq,41.2,TIC MFH current table
+2022-01-31,Ireland,308.6,TIC MFH current table
+2022-02-28,Ireland,314.9,TIC MFH current table
+2022-03-31,Ireland,315.9,TIC MFH current table
+2022-04-30,Ireland,309.7,TIC MFH current table
+2022-05-31,Ireland,288.8,TIC MFH current table
+2022-06-30,Ireland,285.6,TIC MFH current table
+2022-07-31,Ireland,277.5,TIC MFH current table
+2022-08-31,Ireland,275.6,TIC MFH current table
+2022-09-30,Ireland,265.4,TIC MFH current table
+2022-10-31,Ireland,245.1,TIC MFH current table
+2022-11-30,Ireland,250.3,TIC MFH current table
+2022-12-31,Ireland,254.8,TIC MFH current table
+2023-01-31,Ireland,253.4,TIC MFH current table
+2022-01-31,Israel,63.8,TIC MFH current table
+2022-02-28,Israel,66.0,TIC MFH current table
+2022-03-31,Israel,59.5,TIC MFH current table
+2022-04-30,Israel,52.0,TIC MFH current table
+2022-05-31,Israel,50.9,TIC MFH current table
+2022-06-30,Israel,51.5,TIC MFH current table
+2022-07-31,Israel,53.0,TIC MFH current table
+2022-08-31,Israel,51.1,TIC MFH current table
+2022-09-30,Israel,51.2,TIC MFH current table
+2022-10-31,Israel,51.1,TIC MFH current table
+2022-11-30,Israel,52.0,TIC MFH current table
+2022-12-31,Israel,47.8,TIC MFH current table
+2023-01-31,Israel,46.1,TIC MFH current table
+2022-01-31,Italy,42.1,TIC MFH current table
+2022-02-28,Italy,45.4,TIC MFH current table
+2022-03-31,Italy,44.2,TIC MFH current table
+2022-04-30,Italy,42.6,TIC MFH current table
+2022-05-31,Italy,41.9,TIC MFH current table
+2022-06-30,Italy,40.4,TIC MFH current table
+2022-07-31,Italy,40.2,TIC MFH current table
+2022-08-31,Italy,37.9,TIC MFH current table
+2022-09-30,Italy,36.8,TIC MFH current table
+2022-10-31,Italy,36.8,TIC MFH current table
+2022-11-30,Italy,38.1,TIC MFH current table
+2022-12-31,Italy,39.2,TIC MFH current table
+2023-01-31,Italy,40.2,TIC MFH current table
+2022-01-31,Japan,1299.9,TIC MFH current table
+2022-02-28,Japan,1303.0,TIC MFH current table
+2022-03-31,Japan,1229.0,TIC MFH current table
+2022-04-30,Japan,1215.0,TIC MFH current table
+2022-05-31,Japan,1219.9,TIC MFH current table
+2022-06-30,Japan,1232.7,TIC MFH current table
+2022-07-31,Japan,1230.7,TIC MFH current table
+2022-08-31,Japan,1196.0,TIC MFH current table
+2022-09-30,Japan,1116.4,TIC MFH current table
+2022-10-31,Japan,1064.4,TIC MFH current table
+2022-11-30,Japan,1082.3,TIC MFH current table
+2022-12-31,Japan,1076.3,TIC MFH current table
+2023-01-31,Japan,1104.4,TIC MFH current table
+2022-01-31,Korea,123.8,TIC MFH current table
+2022-02-28,Korea,121.9,TIC MFH current table
+2022-03-31,Korea,118.9,TIC MFH current table
+2022-04-30,Korea,117.3,TIC MFH current table
+2022-05-31,Korea,115.3,TIC MFH current table
+2022-06-30,Korea,111.9,TIC MFH current table
+2022-07-31,Korea,111.9,TIC MFH current table
+2022-08-31,Korea,117.5,TIC MFH current table
+2022-09-30,Korea,104.9,TIC MFH current table
+2022-10-31,Korea,98.7,TIC MFH current table
+2022-11-30,Korea,100.3,TIC MFH current table
+2022-12-31,Korea,102.9,TIC MFH current table
+2023-01-31,Korea,105.8,TIC MFH current table
+2022-01-31,Kuwait,50.6,TIC MFH current table
+2022-02-28,Kuwait,50.6,TIC MFH current table
+2022-03-31,Kuwait,46.8,TIC MFH current table
+2022-04-30,Kuwait,46.1,TIC MFH current table
+2022-05-31,Kuwait,46.3,TIC MFH current table
+2022-06-30,Kuwait,46.0,TIC MFH current table
+2022-07-31,Kuwait,49.5,TIC MFH current table
+2022-08-31,Kuwait,51.1,TIC MFH current table
+2022-09-30,Kuwait,50.2,TIC MFH current table
+2022-10-31,Kuwait,50.3,TIC MFH current table
+2022-11-30,Kuwait,50.8,TIC MFH current table
+2022-12-31,Kuwait,48.5,TIC MFH current table
+2023-01-31,Kuwait,43.3,TIC MFH current table
+2022-01-31,Luxembourg,313.0,TIC MFH current table
+2022-02-28,Luxembourg,316.4,TIC MFH current table
+2022-03-31,Luxembourg,303.2,TIC MFH current table
+2022-04-30,Luxembourg,296.2,TIC MFH current table
+2022-05-31,Luxembourg,296.5,TIC MFH current table
+2022-06-30,Luxembourg,309.3,TIC MFH current table
+2022-07-31,Luxembourg,306.5,TIC MFH current table
+2022-08-31,Luxembourg,308.4,TIC MFH current table
+2022-09-30,Luxembourg,299.9,TIC MFH current table
+2022-10-31,Luxembourg,298.4,TIC MFH current table
+2022-11-30,Luxembourg,311.1,TIC MFH current table
+2022-12-31,Luxembourg,329.4,TIC MFH current table
+2023-01-31,Luxembourg,318.2,TIC MFH current table
+2022-01-31,Mexico,44.4,TIC MFH current table
+2022-02-28,Mexico,47.1,TIC MFH current table
+2022-03-31,Mexico,47.7,TIC MFH current table
+2022-04-30,Mexico,47.3,TIC MFH current table
+2022-05-31,Mexico,48.0,TIC MFH current table
+2022-06-30,Mexico,48.8,TIC MFH current table
+2022-07-31,Mexico,49.5,TIC MFH current table
+2022-08-31,Mexico,53.3,TIC MFH current table
+2022-09-30,Mexico,53.9,TIC MFH current table
+2022-10-31,Mexico,56.4,TIC MFH current table
+2022-11-30,Mexico,57.2,TIC MFH current table
+2022-12-31,Mexico,58.6,TIC MFH current table
+2023-01-31,Mexico,58.2,TIC MFH current table
+2022-01-31,Netherlands,60.6,TIC MFH current table
+2022-02-28,Netherlands,65.5,TIC MFH current table
+2022-03-31,Netherlands,64.7,TIC MFH current table
+2022-04-30,Netherlands,63.1,TIC MFH current table
+2022-05-31,Netherlands,64.4,TIC MFH current table
+2022-06-30,Netherlands,64.5,TIC MFH current table
+2022-07-31,Netherlands,66.4,TIC MFH current table
+2022-08-31,Netherlands,66.3,TIC MFH current table
+2022-09-30,Netherlands,66.2,TIC MFH current table
+2022-10-31,Netherlands,63.8,TIC MFH current table
+2022-11-30,Netherlands,71.9,TIC MFH current table
+2022-12-31,Netherlands,67.4,TIC MFH current table
+2023-01-31,Netherlands,73.7,TIC MFH current table
+2022-01-31,Norway,115.8,TIC MFH current table
+2022-02-28,Norway,120.1,TIC MFH current table
+2022-03-31,Norway,116.7,TIC MFH current table
+2022-04-30,Norway,115.6,TIC MFH current table
+2022-05-31,Norway,109.0,TIC MFH current table
+2022-06-30,Norway,112.9,TIC MFH current table
+2022-07-31,Norway,112.5,TIC MFH current table
+2022-08-31,Norway,111.1,TIC MFH current table
+2022-09-30,Norway,99.6,TIC MFH current table
+2022-10-31,Norway,95.7,TIC MFH current table
+2022-11-30,Norway,97.7,TIC MFH current table
+2022-12-31,Norway,92.0,TIC MFH current table
+2023-01-31,Norway,104.4,TIC MFH current table
+2022-01-31,Peru,29.0,TIC MFH current table
+2022-02-28,Peru,29.5,TIC MFH current table
+2022-03-31,Peru,29.9,TIC MFH current table
+2022-04-30,Peru,30.3,TIC MFH current table
+2022-05-31,Peru,29.9,TIC MFH current table
+2022-06-30,Peru,30.8,TIC MFH current table
+2022-07-31,Peru,32.0,TIC MFH current table
+2022-08-31,Peru,32.4,TIC MFH current table
+2022-09-30,Peru,32.2,TIC MFH current table
+2022-10-31,Peru,31.1,TIC MFH current table
+2022-11-30,Peru,31.0,TIC MFH current table
+2022-12-31,Peru,32.1,TIC MFH current table
+2023-01-31,Peru,31.8,TIC MFH current table
+2022-01-31,Philippines,52.5,TIC MFH current table
+2022-02-28,Philippines,53.9,TIC MFH current table
+2022-03-31,Philippines,52.5,TIC MFH current table
+2022-04-30,Philippines,50.9,TIC MFH current table
+2022-05-31,Philippines,50.6,TIC MFH current table
+2022-06-30,Philippines,49.7,TIC MFH current table
+2022-07-31,Philippines,51.2,TIC MFH current table
+2022-08-31,Philippines,50.9,TIC MFH current table
+2022-09-30,Philippines,51.2,TIC MFH current table
+2022-10-31,Philippines,47.0,TIC MFH current table
+2022-11-30,Philippines,47.8,TIC MFH current table
+2022-12-31,Philippines,48.3,TIC MFH current table
+2023-01-31,Philippines,48.8,TIC MFH current table
+2022-01-31,Poland,44.9,TIC MFH current table
+2022-02-28,Poland,45.5,TIC MFH current table
+2022-03-31,Poland,39.2,TIC MFH current table
+2022-04-30,Poland,37.0,TIC MFH current table
+2022-05-31,Poland,36.0,TIC MFH current table
+2022-06-30,Poland,35.3,TIC MFH current table
+2022-07-31,Poland,36.2,TIC MFH current table
+2022-08-31,Poland,33.9,TIC MFH current table
+2022-09-30,Poland,33.0,TIC MFH current table
+2022-10-31,Poland,34.7,TIC MFH current table
+2022-11-30,Poland,38.2,TIC MFH current table
+2022-12-31,Poland,37.7,TIC MFH current table
+2023-01-31,Poland,40.9,TIC MFH current table
+2022-01-31,Saudi Arabia,119.4,TIC MFH current table
+2022-02-28,Saudi Arabia,116.7,TIC MFH current table
+2022-03-31,Saudi Arabia,115.5,TIC MFH current table
+2022-04-30,Saudi Arabia,115.7,TIC MFH current table
+2022-05-31,Saudi Arabia,114.7,TIC MFH current table
+2022-06-30,Saudi Arabia,119.2,TIC MFH current table
+2022-07-31,Saudi Arabia,121.6,TIC MFH current table
+2022-08-31,Saudi Arabia,122.1,TIC MFH current table
+2022-09-30,Saudi Arabia,121.0,TIC MFH current table
+2022-10-31,Saudi Arabia,120.7,TIC MFH current table
+2022-11-30,Saudi Arabia,121.4,TIC MFH current table
+2022-12-31,Saudi Arabia,119.7,TIC MFH current table
+2023-01-31,Saudi Arabia,111.0,TIC MFH current table
+2022-01-31,Singapore,191.6,TIC MFH current table
+2022-02-28,Singapore,192.0,TIC MFH current table
+2022-03-31,Singapore,190.9,TIC MFH current table
+2022-04-30,Singapore,182.1,TIC MFH current table
+2022-05-31,Singapore,177.1,TIC MFH current table
+2022-06-30,Singapore,180.9,TIC MFH current table
+2022-07-31,Singapore,187.2,TIC MFH current table
+2022-08-31,Singapore,188.3,TIC MFH current table
+2022-09-30,Singapore,176.4,TIC MFH current table
+2022-10-31,Singapore,175.8,TIC MFH current table
+2022-11-30,Singapore,186.2,TIC MFH current table
+2022-12-31,Singapore,182.9,TIC MFH current table
+2023-01-31,Singapore,187.6,TIC MFH current table
+2022-01-31,Spain,27.4,TIC MFH current table
+2022-02-28,Spain,29.0,TIC MFH current table
+2022-03-31,Spain,27.0,TIC MFH current table
+2022-04-30,Spain,26.0,TIC MFH current table
+2022-05-31,Spain,29.5,TIC MFH current table
+2022-06-30,Spain,27.0,TIC MFH current table
+2022-07-31,Spain,28.8,TIC MFH current table
+2022-08-31,Spain,29.9,TIC MFH current table
+2022-09-30,Spain,33.0,TIC MFH current table
+2022-10-31,Spain,31.9,TIC MFH current table
+2022-11-30,Spain,36.0,TIC MFH current table
+2022-12-31,Spain,36.9,TIC MFH current table
+2023-01-31,Spain,40.3,TIC MFH current table
+2022-01-31,Sweden,54.5,TIC MFH current table
+2022-02-28,Sweden,55.4,TIC MFH current table
+2022-03-31,Sweden,53.5,TIC MFH current table
+2022-04-30,Sweden,53.1,TIC MFH current table
+2022-05-31,Sweden,48.2,TIC MFH current table
+2022-06-30,Sweden,48.2,TIC MFH current table
+2022-07-31,Sweden,50.3,TIC MFH current table
+2022-08-31,Sweden,48.3,TIC MFH current table
+2022-09-30,Sweden,47.1,TIC MFH current table
+2022-10-31,Sweden,46.3,TIC MFH current table
+2022-11-30,Sweden,48.4,TIC MFH current table
+2022-12-31,Sweden,42.3,TIC MFH current table
+2023-01-31,Sweden,39.5,TIC MFH current table
+2022-01-31,Switzerland,295.4,TIC MFH current table
+2022-02-28,Switzerland,278.0,TIC MFH current table
+2022-03-31,Switzerland,270.7,TIC MFH current table
+2022-04-30,Switzerland,268.0,TIC MFH current table
+2022-05-31,Switzerland,287.1,TIC MFH current table
+2022-06-30,Switzerland,291.5,TIC MFH current table
+2022-07-31,Switzerland,283.1,TIC MFH current table
+2022-08-31,Switzerland,290.6,TIC MFH current table
+2022-09-30,Switzerland,273.3,TIC MFH current table
+2022-10-31,Switzerland,258.4,TIC MFH current table
+2022-11-30,Switzerland,266.5,TIC MFH current table
+2022-12-31,Switzerland,269.7,TIC MFH current table
+2023-01-31,Switzerland,290.5,TIC MFH current table
+2022-01-31,Taiwan,247.1,TIC MFH current table
+2022-02-28,Taiwan,247.0,TIC MFH current table
+2022-03-31,Taiwan,236.9,TIC MFH current table
+2022-04-30,Taiwan,226.9,TIC MFH current table
+2022-05-31,Taiwan,229.1,TIC MFH current table
+2022-06-30,Taiwan,232.3,TIC MFH current table
+2022-07-31,Taiwan,238.2,TIC MFH current table
+2022-08-31,Taiwan,231.5,TIC MFH current table
+2022-09-30,Taiwan,215.3,TIC MFH current table
+2022-10-31,Taiwan,214.6,TIC MFH current table
+2022-11-30,Taiwan,223.9,TIC MFH current table
+2022-12-31,Taiwan,225.5,TIC MFH current table
+2023-01-31,Taiwan,234.6,TIC MFH current table
+2022-01-31,Thailand,62.1,TIC MFH current table
+2022-02-28,Thailand,61.6,TIC MFH current table
+2022-03-31,Thailand,63.7,TIC MFH current table
+2022-04-30,Thailand,57.2,TIC MFH current table
+2022-05-31,Thailand,49.4,TIC MFH current table
+2022-06-30,Thailand,49.0,TIC MFH current table
+2022-07-31,Thailand,48.0,TIC MFH current table
+2022-08-31,Thailand,47.5,TIC MFH current table
+2022-09-30,Thailand,43.3,TIC MFH current table
+2022-10-31,Thailand,43.0,TIC MFH current table
+2022-11-30,Thailand,41.4,TIC MFH current table
+2022-12-31,Thailand,46.0,TIC MFH current table
+2023-01-31,Thailand,52.8,TIC MFH current table
+2022-01-31,United Arab Emirates,44.9,TIC MFH current table
+2022-02-28,United Arab Emirates,46.5,TIC MFH current table
+2022-03-31,United Arab Emirates,45.8,TIC MFH current table
+2022-04-30,United Arab Emirates,41.9,TIC MFH current table
+2022-05-31,United Arab Emirates,38.4,TIC MFH current table
+2022-06-30,United Arab Emirates,40.1,TIC MFH current table
+2022-07-31,United Arab Emirates,41.6,TIC MFH current table
+2022-08-31,United Arab Emirates,48.2,TIC MFH current table
+2022-09-30,United Arab Emirates,47.9,TIC MFH current table
+2022-10-31,United Arab Emirates,53.9,TIC MFH current table
+2022-11-30,United Arab Emirates,59.5,TIC MFH current table
+2022-12-31,United Arab Emirates,58.6,TIC MFH current table
+2023-01-31,United Arab Emirates,64.9,TIC MFH current table
+2022-01-31,United Kingdom,610.7,TIC MFH current table
+2022-02-28,United Kingdom,627.0,TIC MFH current table
+2022-03-31,United Kingdom,636.5,TIC MFH current table
+2022-04-30,United Kingdom,614.3,TIC MFH current table
+2022-05-31,United Kingdom,636.5,TIC MFH current table
+2022-06-30,United Kingdom,617.3,TIC MFH current table
+2022-07-31,United Kingdom,636.6,TIC MFH current table
+2022-08-31,United Kingdom,646.5,TIC MFH current table
+2022-09-30,United Kingdom,664.8,TIC MFH current table
+2022-10-31,United Kingdom,641.3,TIC MFH current table
+2022-11-30,United Kingdom,645.8,TIC MFH current table
+2022-12-31,United Kingdom,654.5,TIC MFH current table
+2023-01-31,United Kingdom,668.3,TIC MFH current table
+2022-01-31,Vietnam,42.3,TIC MFH current table
+2022-02-28,Vietnam,41.4,TIC MFH current table
+2022-03-31,Vietnam,40.7,TIC MFH current table
+2022-04-30,Vietnam,40.1,TIC MFH current table
+2022-05-31,Vietnam,39.1,TIC MFH current table
+2022-06-30,Vietnam,39.2,TIC MFH current table
+2022-07-31,Vietnam,39.9,TIC MFH current table
+2022-08-31,Vietnam,38.2,TIC MFH current table
+2022-09-30,Vietnam,37.1,TIC MFH current table
+2022-10-31,Vietnam,36.2,TIC MFH current table
+2022-11-30,Vietnam,35.6,TIC MFH current table
+2022-12-31,Vietnam,36.9,TIC MFH current table
+2023-01-31,Vietnam,36.3,TIC MFH current table

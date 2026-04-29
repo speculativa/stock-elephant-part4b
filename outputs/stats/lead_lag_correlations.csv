@@ -1,0 +1,11 @@
+uae_series,us_country,peak_corr,peak_lag_months,interpretation,n_obs
+uae_m2_mom,UK,0.2643368101438302,12,UAE lags US by 12 months,167
+uae_m2_mom,Belgium,0.2503878891288691,0,contemporaneous,167
+uae_m2_mom,Japan,0.24719524995562248,1,UAE lags US by 1 months,167
+uae_fx_mom,Japan,-0.22093251846099246,3,UAE lags US by 3 months,158
+uae_m2_mom,China,-0.1942421288471062,-10,UAE leads US by 10 months,167
+uae_fx_mom,Canada,0.1874742199573391,0,contemporaneous,158
+uae_fx_mom,China,0.186415276583262,0,contemporaneous,158
+uae_m2_mom,Canada,0.1812032941932143,8,UAE lags US by 8 months,167
+uae_fx_mom,Belgium,0.1707180235049635,-9,UAE leads US by 9 months,158
+uae_fx_mom,UK,-0.1520169901387072,10,UAE lags US by 10 months,158

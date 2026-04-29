@@ -1,0 +1,55 @@
+date,series,type,description
+2005-07-01,uae_fx_reserves_level,structural_break,"UAE FX Reserves level (monthly, USD mn)"
+2006-12-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2007-04-01,uae_m2_level,structural_break,"UAE M2 Money Supply (monthly, USD mn)"
+2007-10-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2008-03-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2008-08-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2009-11-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2011-02-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2011-07-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2013-01-31,treasury_Belgium,anomaly,"Belgium Treasury MoM z=2.7, delta $47B"
+2013-07-31,treasury_Japan,anomaly,"Japan Treasury MoM z=2.8, delta $52B"
+2013-10-31,fed_balance_sheet,structural_break,"Fed Balance Sheet (monthly end, USD mn)"
+2013-11-01,uae_fx_reserves_level,structural_break,"UAE FX Reserves level (monthly, USD mn)"
+2013-12-01,uae_m2_level,structural_break,"UAE M2 Money Supply (monthly, USD mn)"
+2014-11-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2014-11-30,treasury_belgium_mom,structural_break,Belgium Treasury Holdings MoM change (USD bn)
+2015-03-31,treasury_China,anomaly,"China Treasury MoM z=2.8, delta $37B"
+2015-03-31,treasury_Belgium,anomaly,"Belgium Treasury MoM z=-3.0, delta $-92B"
+2015-09-30,treasury_belgium_mom,structural_break,Belgium Treasury Holdings MoM change (USD bn)
+2016-03-31,treasury_Canada,anomaly,"Canada Treasury MoM z=2.7, delta $12B"
+2016-09-30,sofr_effr_spread_monthly,structural_break,"SOFR minus EFFR spread (monthly mean, bp)"
+2017-12-31,sofr_effr_spread_monthly,structural_break,"SOFR minus EFFR spread (monthly mean, bp)"
+2019-07-31,treasury_UK,anomaly,"UK Treasury MoM z=2.5, delta $66B"
+2019-07-31,treasury_Canada,anomaly,"Canada Treasury MoM z=2.8, delta $37B"
+2020-01-31,sofr_effr_spread_monthly,structural_break,"SOFR minus EFFR spread (monthly mean, bp)"
+2020-06-30,fed_balance_sheet,structural_break,"Fed Balance Sheet (monthly end, USD mn)"
+2021-02-28,treasury_uk_mom,structural_break,UK Treasury Holdings MoM change (USD bn)
+2021-02-28,treasury_canada_mom,structural_break,Canada Treasury Holdings MoM change (USD bn)
+2021-06-30,treasury_Aggregate,anomaly,"Aggregate Treasury MoM z=3.0, delta $374B"
+2021-06-30,treasury_Canada,anomaly,"Canada Treasury MoM z=2.8, delta $47B"
+2021-12-31,treasury_japan_mom,structural_break,Japan Treasury Holdings MoM change (USD bn)
+2021-12-31,treasury_Belgium,anomaly,"Belgium Treasury MoM z=3.0, delta $47B"
+2022-10-31,treasury_japan_mom,structural_break,Japan Treasury Holdings MoM change (USD bn)
+2022-10-31,treasury_uk_mom,structural_break,UK Treasury Holdings MoM change (USD bn)
+2023-01-01,uae_fx_reserves_level,structural_break,"UAE FX Reserves level (monthly, USD mn)"
+2023-02-01,uae_m2_level,structural_break,"UAE M2 Money Supply (monthly, USD mn)"
+2023-03-01,uae_fx_reserves_yoy,structural_break,"UAE FX Reserves YoY growth (monthly, %)"
+2023-03-31,treasury_uk_mom,structural_break,UK Treasury Holdings MoM change (USD bn)
+2023-12-01,uae_portfolio_investment,structural_break,"UAE Portfolio Investment (annual, USD mn)"
+2024-03-31,Phase1_CLC,phase1_liquidity_cliff_event,6-month import CLC below 1 in CBUAE window (0.60)
+2024-08-31,sofr_effr_spread_monthly,structural_break,"SOFR minus EFFR spread (monthly mean, bp)"
+2025-02-10,FICC_structure,architecture_event,FICC Sponsored list moved behind MyDTCC
+2025-03-31,Phase1_CBUAE_reserve_composition,phase1_balance_sheet_event,CBUAE cash/deposits share falls below 50% (49.1%)
+2025-06-30,Phase1_CBUAE_reserve_composition,phase1_balance_sheet_event,CBUAE foreign investments exceed cash/deposits ($137.8B vs $113.9B)
+2025-06-30,Phase1_CLC,phase1_liquidity_cliff_event,3-month import CLC crosses below 1 (0.98)
+2025-06-30,Phase1_BIS_USD_liabilities,phase1_routing_event,BIS global USD liabilities to UAE reach sample high ($739.9B)
+2025-09-30,treasury_canada_mom,structural_break,Canada Treasury Holdings MoM change (USD bn)
+2025-09-30,Phase1_CBUAE_reserve_composition,phase1_balance_sheet_event,CBUAE cash/deposits share falls below 35% (34.7%)
+2025-09-30,Phase1_BIS_USD_liabilities,phase1_routing_event,Latest BIS global USD liabilities to UAE ($726.0B)
+2025-09-30,Phase1_BTAR,phase1_absorption_event,Low-scenario UAE-BTAR exceeds 1 for BIS global USD liabilities to UAE (1.33)
+2026-01-21,Fed_policy,policy_event,Fed balance-sheet stress-window expansion begins
+2026-02-28,Phase1_CBUAE_reserve_composition,phase1_balance_sheet_event,CBUAE cash/deposits share falls below 25% (24.4%)
+2026-03-16,Repo_market,market_event,SOFR stress marker
+2026-04-13,Paper,publication,Part IV published
